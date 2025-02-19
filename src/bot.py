@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 from config import TOKEN, CHANNEL_ID, MAX_VIEWS
 
-
+#a
 client = discord.Client()
 
 @client.event

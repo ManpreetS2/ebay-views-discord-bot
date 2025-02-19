@@ -2,7 +2,7 @@
 TOKEN = '' 
 
 # You can change the max amount of views so people don't add stupidly large amounts of views
-MAX_VIEWS = 50
+MAX_VIEWS = 100
 
 # Right click on the channel you want the viewers to only run in. Click copy ID and paste it below
 CHANNEL_ID = ''
